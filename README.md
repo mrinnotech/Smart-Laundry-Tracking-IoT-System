@@ -10,9 +10,14 @@ This project was built to demonstrate **hardware–software integration, device 
 
 * 📡 **RFID-Based Identification**
   Each laundry bag/item is tagged and uniquely identified using RFID.
+  
+  ![RFID Identification](Images/IOT1.png)
+
 
 * 🎥 **Computer Vision Rack Detection**
   Camera + OpenCV used to detect rack positions and assist in tracking placement.
+  
+  ![CV](Images/IOT2.png)
 
 * ☁️ **Real-Time Data Logging**
   Item movement and status updates stored in a cloud/database system.
@@ -28,6 +33,25 @@ This project was built to demonstrate **hardware–software integration, device 
 ## 🛠 System Architecture
 
 **RFID Tag → RFID Reader → Embedded Controller → Python Processing → Database/Cloud → Monitoring Interface**
+
+---
+
+## Overall Flow
+
+![Overall Flow](Images/IOT4.png)
+
+---
+
+## 📈 Results 
+
+**Data logging**
+
+![Results1](Images/IOT5.png)
+
+**Detection and final result** 
+
+![Results2](Images/IOT6.png)
+
 
 ---
 
