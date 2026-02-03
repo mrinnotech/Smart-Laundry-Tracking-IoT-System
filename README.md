@@ -110,4 +110,5 @@ This project was built to demonstrate **hardware–software integration, device 
 
 **Pushpak Srinivas Murthy Saviti**
 Embedded Systems | PCB Design | IoT | Firmware | Hardware Validation
+<a href="https://www.linkedin.com/in/pushpak-srinivas-s-923324282/">LinkedIn</a>
 
